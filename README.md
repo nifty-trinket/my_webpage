@@ -1,6 +1,6 @@
-Some helpful stuff:
+## Some helpful stuff:
 
-python3 -m http.server to start a server for viewing local files
+`python3 -m http.server` to start a server for viewing local files
 
 inspo:
 
@@ -11,3 +11,5 @@ https://onlywonder.net/themes/
 https://itinerae.blogspot.com/2024/01/foryou.html
 
 https://goblin-heart.net/sadgrl/projects/layout-builder/
+
+https://ribo.zone/free/graphics/
